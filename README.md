@@ -62,6 +62,7 @@ Id curso: 1
 Nombre de curso: Course 1
 Duración del curso: 4 hrs.
 Costo del curso: 34000 (COP)
+---------------------
 Pre-matricula realizada correctamente.
 
 
