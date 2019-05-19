@@ -10,31 +10,29 @@ Para Listar todos los cursos: Copiaremos en la consola (cmd o terminal de Git), 
 
 Ejemplo: node index List
 
----------------------
-Lista de Cursos
----------------------
 
----------------------
+Lista de Cursos
+
 Id curso: 1
 Nombre de curso: Course 1
 Duración del curso: 4 hrs.
 Costo del curso: 34000 (COP)
----------------------
+
 Id curso: 2
 Nombre de curso: Course 2
 Duración del curso: 5 hrs.
 Costo del curso: 4000 (COP)
----------------------
+
 Id curso: 3
 Nombre de curso: Course 3
 Duración del curso: 400 hrs.
 Costo del curso: 300 (COP)
----------------------
+
 Id curso: 4
 Nombre de curso: curso prueba
 Duración del curso: 8 hrs.
 Costo del curso: 50 (COP)
----------------------
+
 Id curso: 5
 Nombre de curso: curso prueba 2
 Duración del curso: 8 hrs.
@@ -53,16 +51,13 @@ Para pre-matricular un estudiante a un curso: Copiaremos en la consola "node ind
 
 Ejemplo: node index AddCourseEstudent --idc=1 --aname="est 2" --c=1234 --d="inscribir"
 
----------------------
 Curso seleccionado
----------------------
 
----------------------
 Id curso: 1
 Nombre de curso: Course 1
 Duración del curso: 4 hrs.
 Costo del curso: 34000 (COP)
----------------------
+
 Pre-matricula realizada correctamente.
 
 
